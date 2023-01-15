@@ -1,7 +1,8 @@
 ### Ola eu sou Jader Porto🖐️
 
 
-![JaderPorto GitHub stats](https://github-readme-stats.vercel.app/api?username=JaderPorto&show_icons=true&theme=radical)
+![JaderPorto GitHub stats](https://github-readme-stats.vercel.app/api?username=JaderPorto&show_icons=true&theme=dracula)
+
 
 ## Tecnologias que estudo no dia!
 
